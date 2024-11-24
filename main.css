@@ -189,7 +189,7 @@ header nav ul li.active a:hover{
 
 
 .features {
-    background: url('/img/base.png') no-repeat center center fixed;
+    background: #000000;
     background-size: cover;
     padding: 80px 0;
 }
